@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\ProductMicroservice\bin\Debug\ProductMicroservice.dll
+C:\Users\ACER\source\repos\ProductMicroservice\bin\Debug\ProductMicroservice.pdb
+C:\Users\ACER\source\repos\ProductMicroservice\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\ACER\source\repos\ProductMicroservice\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ProductMicroservice\obj\Debug\docker-compose.dcproj.CopyComplete
